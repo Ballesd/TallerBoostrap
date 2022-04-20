@@ -1,0 +1,18 @@
+#fondo_div_login{
+    background-color:   rgb(239, 245, 211);
+    padding-top: 50px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 50px;
+    
+}
+
+#bloque_login{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.header_y_footer_login{
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+}
